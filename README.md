@@ -1,5 +1,5 @@
 PatientData.csv is a data set of 10801 Patients which consists of the following parameters/features :
-AVGHEARTBEATSPERMIN 	PALPITATIONSPERDAY 	 CHOLESTEROL  	BMI 	 HEARTFAILURE 	 AGE  	SEX 	 FAMILYHISTORY 	 SMOKERLAST5YRS 	EXERCISEMINPERWEEK
+AVGHEARTBEATSPERMIN 	  PALPITATIONSPERDAY 	   CHOLESTEROL    	BMI 	   HEARTFAILURE 	   AGE    	SEX 	   FAMILYHISTORY 	   SMOKERLAST5YRS 	EXERCISEMINPERWEEK
 
 This data set has been trained on Azure Machine Learning Studio using a Two-Class Boosted Decision Tree to predict whether a patient will suffer
 from a heart failure or not.
